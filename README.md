@@ -6,4 +6,5 @@ Open the proton acount (drive) `altermo-recovery-E4qJK6@proton.me` with the pass
 + Your anydesk password (first instance of letter is uppercase)
 + A singular `#`
 + Your master password (`uno` instead of `1`, first instance of letter is not uppercase)
+
 Use the same password to unlock the zip file.
